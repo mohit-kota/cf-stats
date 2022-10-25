@@ -6,8 +6,8 @@
 </a>
 <br/>
 <a href="https://github.com/sudiptob2/cf-stats">
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg" />
-<img src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg" />
+<img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/max_rating.svg" />
+<img src="https://raw.githubusercontent.com/mohitkota143/cf-stats/main/output/rating.svg" />
 </a>
 
 # Installation
